@@ -11,7 +11,7 @@ body {
 }
 
 #cimkep {
-  float: right;
+  float: left;
   height: 150px
 }
 
@@ -27,12 +27,15 @@ p {
 
 .jobbra {
   text-align: right;
+
 }
 
 .erdekesseg {
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
+  font-style: italic;
+  background-color: white;
 }
 
 li {
